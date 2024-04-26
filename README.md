@@ -2,4 +2,14 @@
 
 ## the goal
 - create a python module I run that generates a blog-like site skeleton
-- idk let's experiment
+- leverage vanilla gh pages + jeykll
+
+## Project structure
+### `bbg/`
+The actual site generator
+
+### `blog/`
+Where content is written
+
+### `docs`
+Output site
